@@ -1,7 +1,9 @@
+# Source
+https://medium.com/dailyjs/combining-react-with-socket-io-for-real-time-goodness-d26168429a34
 
 # install dependencies
 ```
-npm i
+yarn install
 ```
 
 # start node server
@@ -11,5 +13,5 @@ node server.js
 
 # start frontend 
 ```
-npm start
+yarn start
 ```
